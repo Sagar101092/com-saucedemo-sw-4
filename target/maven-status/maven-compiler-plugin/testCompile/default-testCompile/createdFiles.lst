@@ -1,0 +1,4 @@
+com\saucedemo\testbase\BaseTest.class
+com\saucedemo\testng\TestNGDemo.class
+com\saucedemo\testsuite\LoginTest.class
+com\saucedemo\AppTest.class
